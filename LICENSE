@@ -1,21 +1,235 @@
-MIT License
+================================================================================
+LICENSING OVERVIEW
+================================================================================
 
+This repository contains both software code and trained machine learning models.
+Different license terms apply to these distinct components:
+
+1. SOFTWARE CODE:
+   All software source code, applications, scripts, user interfaces, and executables
+   in this repository are licensed under the PolyForm Noncommercial License 1.0.0.
+   See Section A below.
+
+2. MODELS AND DATA:
+   All trained machine learning model artifacts, weights, parameters, serialized
+   workflows (.rds files), and related documentation are licensed under the
+   Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+   (CC BY-NC-SA 4.0).
+   See Section B below.
+
+Commercial use of either the software code or the models is strictly prohibited
+without prior written authorization from the copyright holders (Sheehan Lab).
+
+================================================================================
+SECTION A: POLYFORM NONCOMMERCIAL LICENSE 1.0.0
+================================================================================
 Copyright (c) 2026 Sheehan Lab
+https://polyformproject.org/licenses/noncommercial/1.0.0/
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Acceptance
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+In order to get any license under these terms, you must agree to them as both
+rules and terms of a legal agreement. If you do not have that agreement, you do
+not have any license to use the software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Copyright License
+
+The licensor grants you a copyright license to do everything with the software
+that would otherwise infringe the licensor's copyright in it, for any permitted
+purpose. However, you may only share the software with other people under these
+terms and the terms of each license for each other part of the software.
+
+## Patent License
+
+The licensor grants you a patent license to make, have made, use, sell, offer
+for sale, import, and otherwise transfer the software, for any permitted purpose.
+But only for patent claims that the licensor can license, or becomes able to
+license, that are infringed by the software alone, or by combination of the
+software with anything else you will use with it.
+
+## Permitted Purposes
+
+A permitted purpose is any purpose that is not a commercial purpose.
+
+## Commercial Purposes
+
+A commercial purpose is any purpose that is to make or intend to make money or
+generate any other commercial advantage, or that is part of doing so. Examples
+of commercial purposes include:
+
+- selling, leasing, or licensing the software
+- hosting the software to provide a service to others, including Software as a
+  Service
+- providing consulting or support services for the software
+- charging for admission, access, or participation in any event or place where
+  the software is used
+- creating or distributing promotional materials for anything you charge for
+- operating a business or business process, including internal business operations
+- charging for anything that contains or uses the software
+
+## Noncommercial Purposes
+
+Noncommercial purposes include:
+
+- personal use
+- education, whether in a school, college, university, or other institution
+- noncommercial research, including scientific or scholarly research that is
+  not funded by commercial interests or aimed at creating commercial products
+  or services
+
+## Notices
+
+You must ensure that anyone who gets a copy of any part of the software from
+you also gets a copy of these terms or the URL for them above, as well as copies
+of any copyright notices and notices of license terms for software, models, or
+data that came with it.
+
+## No Other Rights
+
+These terms do not grant you any right to use any trademark, service mark, or
+other name of the licensor.
+
+## Disclaimer
+
+As far as the law allows, the software comes as is, without any warranty or
+condition, and the licensor will not be liable to you for any damages arising
+out of these terms or the use or nature of the software, under any kind of legal
+claim.
+
+================================================================================
+SECTION B: CREATIVE COMMONS ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL
+================================================================================
+CC BY-NC-SA 4.0
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+By exercising the Licensed Rights (defined below), You accept and agree to be
+bound by the terms and conditions of this Creative Commons Attribution-
+NonCommercial-ShareAlike 4.0 International Public License ("Public License").
+
+Section 1 – Definitions.
+a. Adapted Material means material subject to Copyright and Similar Rights that
+   is derived from or based upon the Licensed Material and in which the Licensed
+   Material is translated, altered, arranged, transformed, or otherwise modified
+   in a manner requiring permission under the Copyright and Similar Rights held
+   by the Licensor.
+b. Adapter's License means the license You apply to Your Copyright and Similar
+   Rights in Your contributions to Adapted Material in accordance with the terms
+   and conditions of this Public License.
+c. CC-Compatible License means a license that is listed at
+   creativecommons.org/compatiblelicenses, approved by Creative Commons as
+   essentially the equivalent of this Public License.
+d. Copyright and Similar Rights means copyright and/or similar rights closely
+   related to copyright including, without limitation, performance, broadcast,
+   sound recording, and Sui Generis Database Rights, without regard to how the
+   rights are labeled or categorized.
+e. Effective Technological Measures means those measures that, in the absence of
+   proper authority, may not be circumvented under laws fulfilling obligations
+   under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996,
+   and/or similar international agreements.
+f. Exceptions and Limitations means fair use, fair dealing, and/or any other
+   exception or limitation to Copyright and Similar Rights that applies to Your
+   use of the Licensed Material.
+g. Licensed Material means the artistic or literary work, database, or other
+   material to which the Licensor applied this Public License.
+h. Licensed Rights means the rights granted to You subject to the terms and
+   conditions of this Public License, which are limited to all Copyright and
+   Similar Rights that apply to Your use of the Licensed Material and that the
+   Licensor has authority to license.
+i. Licensor means the individual(s) or entity(ies) granting rights under this
+   Public License (Sheehan Lab).
+j. NonCommercial means not primarily intended for or directed towards commercial
+   advantage or monetary compensation.
+k. Share means to provide material to the public by any means or process that
+   requires permission under the Licensed Rights, such as reproduction, public
+   display, public performance, distribution, dissemination, communication, or
+   importation.
+l. ShareAlike means that if You Share Adapted Material You produce, You must
+   license it under the Adapter's License.
+m. Sui Generis Database Rights means rights other than copyright resulting from
+   Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996
+   on the legal protection of databases, as amended and/or succeeded, as well as
+   other essentially equivalent rights anywhere in the world.
+n. You means the individual or entity exercising the Licensed Rights under this
+   Public License.
+
+Section 2 – Scope.
+a. License grant.
+   1. Subject to the terms and conditions of this Public License, the Licensor
+      hereby grants You a worldwide, royalty-free, non-sublicensable,
+      non-exclusive, irrevocable license to exercise the Licensed Rights in the
+      Licensed Material to:
+      A. reproduce and Share the Licensed Material, in whole or in part, for
+         NonCommercial purposes only; and
+      B. produce, reproduce, and Share Adapted Material for NonCommercial purposes
+         only.
+   2. Exceptions and Limitations. For the avoidance of doubt, where Exceptions
+      and Limitations apply to Your use, this Public License does not apply, and
+      You do not need to comply with its terms and conditions.
+   3. Term. The term of this Public License is specified in Section 6(a).
+   4. Media and formats; technical modifications allowed. The Licensor authorizes
+      You to exercise the Licensed Rights in all media and formats whether now
+      known or hereafter created, and to make technical modifications necessary to
+      do so.
+   5. Downstream recipients. Every recipient of the Licensed Material automatically
+      receives an offer from the Licensor to exercise the Licensed Rights under the
+      terms and conditions of this Public License. If You Share Adapted Material,
+      every recipient automatically receives an offer to exercise the Licensed
+      Rights in the Adapted Material under the conditions of the Adapter's License.
+   6. No endorsement. Nothing in this Public License constitutes or may be
+      construed as permission to assert or imply that You are, or that Your use of
+      the Licensed Material is, connected with, or sponsored, endorsed, or granted
+      official status by, the Licensor or others designated to receive attribution.
+
+Section 3 – License Conditions.
+Your exercise of the Licensed Rights is expressly made subject to the following
+conditions:
+a. Attribution.
+   1. If You Share the Licensed Material (including in modified form), You must:
+      A. retain the identification of the creator(s) of the Licensed Material
+         (Sheehan Lab) and any others designated to receive attribution;
+      B. retain a copyright notice;
+      C. retain a notice that refers to this Public License;
+      D. retain a notice that refers to the disclaimer of warranties;
+      E. include a URI or hyperlink to the Licensed Material to the extent
+         reasonably practicable;
+      F. indicate if You modified the Licensed Material and retain an indication of
+         any previous modifications.
+   2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner
+      based on the medium, means, and context in which You Share the Licensed
+      Material.
+b. ShareAlike.
+   In addition to the conditions in Section 3(a), if You Share Adapted Material You
+   produce, You must offer the Adapted Material under the terms of this Public
+   License or a CC-Compatible License.
+c. NonCommercial.
+   You may not exercise any of the Licensed Rights for Commercial Purposes.
+
+Section 4 – Sui Generis Database Rights.
+Where the Licensed Rights include Sui Generis Database Rights that apply to Your use:
+a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract,
+   reuse, reproduce, and Share all or a substantial portion of the contents of the
+   database for NonCommercial purposes only;
+b. if You include all or a substantial portion of the database contents in a database
+   in which You have Sui Generis Database Rights, then that database is Adapted Material;
+c. You must comply with the conditions in Section 3 if You Share all or a substantial
+   portion of the contents of the database.
+
+Section 5 – Disclaimer of Warranties and Limitation of Liability.
+Unless otherwise separately undertaken by the Licensor, to the extent possible,
+the Licensor offers the Licensed Material as-is and as-available, and makes no
+representations or warranties of any kind concerning the Licensed Material.
+
+Section 6 – Term and Termination.
+a. This Public License applies for the term of the Copyright and Similar Rights
+   licensed here. However, if You fail to comply with this Public License, then
+   Your rights under this Public License terminate automatically.
+
+Section 7 – Other Terms and Conditions.
+The Licensor shall not be bound by any additional or different terms or conditions
+communicated by You unless expressly agreed.
+
+Section 8 – Interpretation.
+For the avoidance of doubt, this Public License does not, and shall not be
+interpreted to, reduce, limit, restrict, or impose conditions on any use of the
+Licensed Material that could lawfully be made without permission under this Public
+License.

@@ -53,6 +53,14 @@ A formatted sample file is available at `3_Standalone_Executable/SIGHT_Batch_Tem
 - **Screening Call**: Flagged as Positive (high risk) or Negative based on calibrated clinical decision thresholds.
 - **TreeSHAP Attributions**: Feature-level contribution values indicating how each individual CBC parameter influenced the final risk score.
 
-## Citation and License
+## License
 
-This software is provided under the terms of the repository license. If you use SIGHT in your research or clinical workflows, please cite the corresponding publication from the Sheehan Lab.
+This project is released under a dual noncommercial licensing structure:
+- **Software Code**: The source code, application scripts, user interface assets, and standalone executables are licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).
+- **Models and Data**: The trained model weights, parameters, serialized workflow files (`.rds`), and documentation are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+
+Commercial use of either the software code or the model artifacts is strictly prohibited without explicit written permission from the Sheehan Lab.
+
+## Citation
+
+If you use SIGHT in your research or clinical workflows, please cite the corresponding publication from the Sheehan Lab.
