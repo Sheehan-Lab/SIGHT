@@ -1,0 +1,10 @@
+name: sightapp
+title:
+username: jkonarkowski
+account: jkonarkowski
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14996399
+bundleId: 12800784
+url: https://jkonarkowski.shinyapps.io/sightapp/
+version: 1

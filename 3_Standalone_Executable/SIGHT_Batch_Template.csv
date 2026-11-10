@@ -1,0 +1,7 @@
+patient_id,total_hgb,mcv,mchc,rdw,hematocrit,rbc_count
+PT_001_Classic_SS,7.6,91,34.5,22.4,22.5,2.48
+PT_002_Severe_SCD,6.4,88.5,33.8,24.1,19,2.15
+PT_003_SC_Disease,10.8,78,35.2,16.8,31.5,4.05
+PT_004_Sbeta0,8.2,67.5,32,20.5,25,3.7
+PT_005_Healthy_Control,14.2,89,33.8,12.6,42.5,4.78
+PT_006_Normal_Adult,13.5,87.5,34,13.1,40.2,4.6

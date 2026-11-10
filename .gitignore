@@ -1,0 +1,18 @@
+# R environment files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary outputs
+*.tmp
+*.log
+
+# Sensitive or PHI datasets (safeguard)
+*PHI*
+*phi*

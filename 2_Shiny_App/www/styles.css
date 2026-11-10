@@ -1,0 +1,171 @@
+/* Custom styles for SIGHT: Sickle-cell Identification using General Hematology Testing */
+/* Matches SHARP layout and card structure with SIGHT's signature Purple/Indigo palette */
+
+.card {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.card-header {
+  font-weight: 600;
+  border-radius: 8px 8px 0 0 !important;
+}
+
+.bg-sight-primary {
+  background-color: #593196 !important;
+  color: #ffffff !important;
+}
+
+.text-sight-primary {
+  color: #593196 !important;
+}
+
+.prediction-result {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+.progress {
+  height: 1.5rem;
+  border-radius: 0.5rem;
+}
+
+.alert {
+  border-radius: 6px;
+  border: none;
+}
+
+.alert-info {
+  background-color: #ede7f6;
+  color: #4527a0;
+}
+
+.alert-warning {
+  background-color: #fff8e1;
+  color: #ef6c00;
+}
+
+.alert-success {
+  background-color: #e8f5e9;
+  color: #2e7d32;
+}
+
+.alert-danger {
+  background-color: #ffebee;
+  color: #c62828;
+}
+
+.btn-primary {
+  background-color: #6f42c1;
+  border-color: #6f42c1;
+  font-weight: 500;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+  background-color: #593196;
+  border-color: #593196;
+}
+
+.btn-outline-sight {
+  color: #593196;
+  border-color: #593196;
+}
+
+.btn-outline-sight:hover {
+  background-color: #593196;
+  color: #ffffff;
+}
+
+.form-control {
+  border-radius: 4px;
+  border: 1px solid #ddd;
+}
+
+.form-control:focus {
+  border-color: #6f42c1;
+  box-shadow: 0 0 0 0.2rem rgba(111, 66, 193, 0.25);
+}
+
+.nav-tabs .nav-link {
+  border-radius: 6px 6px 0 0;
+  margin-right: 2px;
+}
+
+.nav-tabs .nav-link.active {
+  background-color: #f8f9fa;
+  border-color: #dee2e6 #dee2e6 #f8f9fa;
+  font-weight: 500;
+  color: #593196;
+}
+
+.shap-plot-container {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 15px;
+  background-color: #fafafa;
+}
+
+.dataTables_wrapper .dataTables_filter input {
+  border-radius: 4px;
+  border: 1px solid #ddd;
+}
+
+.badge {
+  font-size: 0.75em;
+  padding: 0.35em 0.65em;
+}
+
+.batch-kpi-box {
+  background: #f8f9fa;
+  border-left: 4px solid #593196;
+  border-radius: 6px;
+  padding: 12px 15px;
+  margin-bottom: 12px;
+}
+
+.batch-kpi-val {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+.batch-kpi-label {
+  font-size: 0.82rem;
+  color: #6c757d;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+@media (max-width: 768px) {
+  .card {
+    margin-bottom: 1rem;
+  }
+
+  .btn-lg {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+  }
+}
+
+.help-text {
+  font-size: 0.875rem;
+  color: #6c757d;
+  margin-top: 0.25rem;
+}
+
+.required::after {
+  content: " *";
+  color: #dc3545;
+}
+
+.guideline-card {
+  margin-bottom: 1rem;
+  border-left: 4px solid #593196;
+}
+
+.guideline-card .card-header {
+  background-color: #f8f9fa;
+  font-weight: 600;
+}
